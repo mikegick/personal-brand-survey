@@ -1,0 +1,19 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: d7njbes4i37gn
+  pool: 5
+  host: localhost
+  username: wosqimebkozebj
+  password: 53fc3eaca182a0f09c1a5823aeac9ace1217351f573c79e823db1cb41c71d3fc
+  url: postgres://wosqimebkozebj:53fc3eaca182a0f09c1a5823aeac9ace1217351f573c79e823db1cb41c71d3fc@ec2-34-225-159-178.compute-1.amazonaws.com:5432/d7njbes4i37gnr
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: d7njbes4i37gn
+  pool: 5
+  host: localhost
+  username: wosqimebkozebj
+  password: 53fc3eaca182a0f09c1a5823aeac9ace1217351f573c79e823db1cb41c71d3fc
+  url: postgres://wosqimebkozebj:53fc3eaca182a0f09c1a5823aeac9ace1217351f573c79e823db1cb41c71d3fc@ec2-34-225-159-178.compute-1.amazonaws.com:5432/d7njbes4i37gnr
